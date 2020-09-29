@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I am Ankur, a CS under-graduation student at <a href="(https://www.jnujaipur.ac.in/)">Jaipur National University</a>, Jaipur. ✨
+✨ I am Ankur, a CS under-graduation student at [Jaipur National University](https://www.jnujaipur.ac.in/), Jaipur. ✨
 
 - I am a motivated coder 👨‍💻 and a cyber geek 🤓. 
 - I love to learn and share my knowledge about technology 🤖 more and more as much I can.
