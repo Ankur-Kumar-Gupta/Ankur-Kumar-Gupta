@@ -1,6 +1,7 @@
 <h1 align="center">
 <br>
   Hi there 👋, I'm Ankur!
+  <hr>
   <br>
 </h1>
 
