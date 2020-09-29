@@ -3,7 +3,7 @@
 ✨ I am Ankur, a CS under-graduation student at [Jaipur National University](https://www.jnujaipur.ac.in/), Jaipur. ✨
 
 - I am a motivated coder 👨‍💻 and a cyber geek 🤓. 
-- I love to learn and share my knowledge about technology 🤖 more and more as much I can.
+- I love to learn and share my knowledge about technology 🤖 more and more as much as I can.
 - This Github platform is the best 👌 platform to gain and share knowledge for some techie like me 😉.
 
 
