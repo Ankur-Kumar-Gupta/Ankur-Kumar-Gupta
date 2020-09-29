@@ -1,8 +1,7 @@
 <h1 align="center">
 <br>
   Hi there 👋, I'm Ankur!
-  <hr>
-  <br>
+<br>
 </h1>
 
 ✨ A Computer Science under-graduation student at [Jaipur National University](https://www.jnujaipur.ac.in/), Jaipur. ✨
