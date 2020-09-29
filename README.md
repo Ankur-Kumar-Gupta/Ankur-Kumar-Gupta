@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+✨ I am Ankur, a CS under-graduation student at Jaipur National University, Jaipur. ✨
+
+- I am a motivated coder 👨‍💻 and a cyber geek 🤓. 
+- I love to learn and share my knowledge about technology 🤖 more and more as much I can.
+- This Github platform is the best 👌 platform to gain and share knowledge for some techie like me 😉.
+
+
 <!--
 **Ankur-Kumar-Gupta/Ankur-Kumar-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
