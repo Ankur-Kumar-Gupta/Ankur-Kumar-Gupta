@@ -4,7 +4,7 @@
 <br>
 </h1>
 
-✨ A Computer Science under-graduation student at [Jaipur National University](https://www.jnujaipur.ac.in/), Jaipur. ✨
+✨ A CSE under-graduation student at [Jaipur National University](https://www.jnujaipur.ac.in/), Jaipur. ✨
 
 - I am a motivated coder 👨‍💻 and a cyber geek 🤓. 
 - I love to learn and share my knowledge about technology 🤖 more and more as much as I can.
