@@ -4,6 +4,9 @@
  <br>
 </h1>
 
+<br>
+<br>
+
 ✨ A CSE under-graduation student at [Jaipur National University](https://www.jnujaipur.ac.in/), Jaipur. ✨
 
 - I am a motivated coder 👨‍💻 and a cyber geek 🤓. 
@@ -31,7 +34,6 @@
 <br><hr>
 
 
-<br>
 <br>
 <br>
 
