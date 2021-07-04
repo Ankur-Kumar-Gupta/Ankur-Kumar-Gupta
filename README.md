@@ -45,7 +45,7 @@
 <br>
 
 <a href="https://github.com/ANKUR-KUMAR-GUPTA">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ANKUR-KUMAR-GUPTA&show_icons=true&theme=light&line_height=27" alt="Ankur's Github Stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ANKUR-KUMAR-GUPTA&show_icons=true&theme=dark&line_height=27" alt="Ankur's Github Stats"/>
 </a>
 <hr>
 <!--
