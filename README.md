@@ -20,7 +20,7 @@
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/cplusplus.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/java.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://www.flaticon.com/free-icon/html-5_888859" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
 <img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/javascript.svg" />
 <img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/php.svg" />
