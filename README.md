@@ -34,8 +34,8 @@
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/eclipseide.svg" />
 <img align="left" alt="Dev" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/dev-dot-to.svg" />
 <img align="left" alt="Stackoverflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/stackoverflow.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br><hr>
 
@@ -49,7 +49,7 @@
 
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfique&theme=<Black>" />
--->
+
 <br/>
 
 ### Languages and Tools:
@@ -74,3 +74,4 @@
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="" />
+-->
