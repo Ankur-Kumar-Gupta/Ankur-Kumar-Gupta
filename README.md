@@ -56,3 +56,6 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me at [akumarg66@gmail.com](mailto:akumarg66@gmail.com) for collaboration, questions, or just to say hi!
 
 Thank you for visiting my GitHub profile!
+
+
+![Visitors](https://img.shields.io/badge/Visitors-0-blue)
