@@ -1,77 +1,58 @@
-<h1 align="center">
-<br>
-  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Ankur!
- <br>
-</h1>
+# Ankur Kumar Gupta - Software Engineer
 
-<br>
-<br>
+Welcome to my GitHub profile! I'm Ankur Kumar Gupta, a highly motivated Software Engineer with a strong foundation in embedded systems. I'm passionate about software development, and I'm eager to contribute to innovative projects. Below, you'll find an overview of my skills, projects, certifications, and more.
 
-✨ A CSE graduate from [Jaipur National University](https://www.jnujaipur.ac.in/), Jaipur. ✨
+## About Me
+- **Location**: Bangalore, Karnataka, India
+- **Email**: akumarg66@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ankur-kumar-gupta/)
+- **Portfolio**: [Ankur-Gupta-Portfolio](https://ankur-gupta-portfolio.netlify.app/)
 
-- I am a motivated coder 👨‍💻 and a cyber geek 🤓. 
-- I love to learn and share my knowledge about technology 🤖 more and more as much as I can.
-- This Github platform is the best 👌 platform to gain and share knowledge for some techie like me 😉.
-<hr>
-<br>
-<!--
-### Languages :
+## Education
+- Bachelor of Technology in Computer Science and Engineering from Jaipur National University.
 
-<!--<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+## Skills
+- **Programming Languages**: C, C++, Python, JavaScript
+- **Web Development**: HTML, CSS, React.js
+- **Databases**: SQL
+- **Embedded Systems Development**
+- **Operating Systems**: Windows, Real-time Operating Systems (RTOS)
+- **Version Control**: Git, GitHub
+- **Agile Methodology**
 
-<br><hr>
+## Projects
+Here are some of the projects I've worked on:
 
-### Tools :
+1. [Quote of the day: Interactive UI Design](#) - A single-page application built using React.js, HTML, and CSS that provides daily inspirational quotes.
 
-<!--<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Virtual Box" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/virtualbox.svg" />
-<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/eclipseide.svg" />
-<img align="left" alt="Dev" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/dev-dot-to.svg" />
-<img align="left" alt="Stackoverflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/stackoverflow.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+2. [Chit-Chat: Real-Time Chat Web Application](#) - A real-time chat web application developed with HTML, CSS, Node.js, and Socket.IO.
 
-<br><hr>
+3. [CryptoLine: Cryptography in a Next Level](#) - Implementation of encryption and decryption algorithms with a focus on secure user input handling.
 
-<br>
-<br>
+4. [DigiClock: Digital Animated Clock using C++](#) - A real-time updating clock implemented in C++ using the `<chrono>` library.
 
-<a href="https://github.com/ANKUR-KUMAR-GUPTA">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ANKUR-KUMAR-GUPTA&show_icons=true&theme=dark&line_height=30" alt="Ankur's Github Stats"/>
-</a>
-<hr>
+## Certifications
+- Career Essentials Training in Software Development by Microsoft and LinkedIn
+- C++ Programming Certification by Coursera
+- Problem Solving Skill Certification by HackerRank
+- HTML5 Certification by Coursera
+- CSS Skill Certification by HackerRank
+- JavaScript Skill Certification by HackerRank
+- JavaScript Essential Training Certification by LinkedIn
+- SQL Skill Certification by HackerRank
+- MS Excel Skill Certification by Coursera
+- Responsive Web Development Certification by Udemy
 
+## Achievements and Contributions
+- HackerRank: 4-star (Silver Badge) in Problem Solving, C++, and SQL
+- TechGig Code Gladiator 2023, Coding Competition: Semifinalist with a Ranking of 6119 out of 3,34,000 coders
+- LeetCode: Programming Skill Badge
+- GitHub: Pull Shark Open Source Contribution Badge
+- TechGig: Qualified C/C++, Java, and Python Programmer
+- HacktOberfest 2020 Contribution
+- Blogger at Medium.com, sharing knowledge gained over time to help people learn from experiences and learning.
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfique&theme=<Black>" />
+## Contact
+Feel free to reach out to me at [akumarg66@gmail.com](mailto:akumarg66@gmail.com) for collaboration, questions, or just to say hi!
 
-<br/>
-
-### Languages and Tools:
-<img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="C++" width="40px" src="" />
-<img align="left" alt="CSS3" width="40px" src="" />
-<img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Git" width="40px" src="" />
-<img align="left" alt="GitHub" width="40px" src="" />
-<img align="left" alt="HTML5" width="40px" src="" />
-<img align="left" alt="Java" width="40px" src="" />
-<img align="left" alt="JavaScript" width="40px" src="" />
-<img align="left" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="" />
--->
+Thank you for visiting my GitHub profile!
